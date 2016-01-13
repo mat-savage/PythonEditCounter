@@ -1,0 +1,11 @@
+<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><Name>PythonEditCounter Addin</Name><AddInID>{e88a0b6f-3974-4598-bf94-6c46105caf55}</AddInID><Description>New Addin</Description><Version>0.1</Version><Image /><Author>Untitled</Author><Company>Untitled</Company><Date>01/12/2016</Date><Targets><Target name="Desktop" version="10.1" /></Targets><AddIn language="PYTHON" library="PythonEditCounter_addin.py" namespace="PythonEditCounter_addin"><ArcMap>
+    <Commands>
+        </Commands>
+    <Extensions>
+        <Extension autoLoad="true" category="PythonEditCounter Addin" class="PythonEditCounter" description="PythonEditCounter" id="PythonEditCounter_addin.extension2" name="PythonEditCounter" productName="PythonEditCounter" showInExtensionDialog="true" />
+        </Extensions>
+    <Toolbars>
+        </Toolbars>
+    <Menus>
+        </Menus>
+    </ArcMap></AddIn></ESRI.Configuration>
