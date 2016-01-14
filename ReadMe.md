@@ -2,7 +2,7 @@
 
 ## Version
 
-This is version 0.1. It seems to work, but needs some more testing, and to be a bit more robust in the error handling, whatnot.
+This is version 0.2. It seems to work, but needs some more testing, and to be a bit more robust in the error handling, whatnot.
 
 ## Summary
 
